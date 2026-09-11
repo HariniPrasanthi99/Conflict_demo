@@ -1,1 +1,5 @@
-Place : Madurai. Madura is an island in Indonesia located just off the northeastern coast of Java, separated by the narrow Madura Strait. It is part of the East Java province and is culturally defined by its majority Madurese population, known for their strong work ethic, proud traditions, and distinct language. The island's dry landscape and historical challenges have shaped a resilient community, with livelihoods centered around fishing, salt farming, cattle raising, and seafaring. Madura's cultural identity is deeply rooted in Sunni Islam, though traditional beliefs and practices also play a role in daily life.
+Place : Madurai public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}   
